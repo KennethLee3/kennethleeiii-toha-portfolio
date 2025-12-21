@@ -16,7 +16,7 @@ degrees:
   institution:
     name: Cedarville University
     url: "https://www.cedarville.edu/academic-programs/computer-engineering"
-    logo: /images/sections/education/tech_college.png
+    logo: /images/sections/education/CU_Logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
   grade: #(optional)
@@ -47,25 +47,23 @@ degrees:
       achieved: 3.0
       outOf: 4
   extracurricularActivities: #(optional)
-  - Intramural indoor soccer
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - ASEE Robotics Team
+  - Electric Boat Team
+  - Intramural soccer
+  - Intramural dodgeball
 - name: High School Diploma
   icon: fa-school
   timeframe: 2016-2020
   institution:
     name: Heritage Christian School
     url: "https://www.heritagefindlay.org"
-    logo: /images/sections/education/science_college.png
+    logo: /images/sections/education/HCS_Logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 3.6
+    achieved: 3.8
     outOf: 4
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - Quiz team
+  - Soccer team captain
