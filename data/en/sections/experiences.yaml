@@ -54,7 +54,8 @@ experiences:
     responsibilities:
     - stuff
 
-    - company:
+
+- company:
     name: Master Power Transmission
     url: "https://master-pt.com"
     location: Columbus, IN
@@ -68,6 +69,7 @@ experiences:
     end: Aug 2022
     responsibilities:
     - stuff
+
 
 - company:
     name: Walmart
@@ -84,6 +86,7 @@ experiences:
     responsibilities:
     - stuff
 
+
 - company:
     name: Steak 'n Shake
     url: "https://www.steaknshake.com"
@@ -98,6 +101,7 @@ experiences:
     end: Jan 2021
     responsibilities:
     - stuff
+    
   - designation: Service Trainer
     start: Jun 2018
     end: May 2020
