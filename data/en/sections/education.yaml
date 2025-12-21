@@ -11,7 +11,7 @@ section:
 
 degrees:
 - name: B.S. in Computer Engineering
-  icon: fa-microscope
+  icon: fa-university
   timeframe: 2020-2025
   institution:
     name: Cedarville University
@@ -28,25 +28,31 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
+    - name: Advanced Computer Architecture
+      achieved: 4.0
       outOf: 4
-    - name: Network Security
-      achieved: 3.80
+    - name: Advanced Digital Logic Design
+      achieved: 4.0
       outOf: 4
-    - name: Operating System
-      achieved: 3.5
+    - name: CMOS VLSI Design
+      achieved: 4.0
       outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
+    - name: Digital Image Processing
+      achieved: 4.0
+      outOf: 4
+    - name: Machine Learning
+      achieved: 4.0
+      outOf: 4
+    - name: Microcontrollers
+      achieved: 3.0
       outOf: 4
   extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
+  - Intramural indoor soccer
   - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
   - Duis sed massa feugiat, ornare justo et, aliquam est.
   - Pellentesque ut fringilla magna.
 - name: High School Diploma
-  icon: fa-university
+  icon: fa-school
   timeframe: 2016-2020
   institution:
     name: Heritage Christian School
@@ -56,7 +62,7 @@ degrees:
     # darkLogo: /images/sections/education/science_college.png
   grade: #(optional)
     scale: GPA
-    achieved: 3.65
+    achieved: 3.6
     outOf: 4
   extracurricularActivities: #(optional)
   - In vitae facilisis est, eget porta sem.
