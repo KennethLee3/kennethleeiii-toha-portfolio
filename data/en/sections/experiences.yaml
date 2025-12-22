@@ -88,7 +88,7 @@ experiences:
 
 
 - company:
-    name: Steak 'n Shake
+    name: Steak `n Shake
     url: "https://www.steaknshake.com"
     location: Findlay, OH
     logo: /images/sections/experiences/SNS_Logo.png
