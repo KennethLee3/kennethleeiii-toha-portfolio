@@ -20,14 +20,7 @@ experiences:
     overview: Schoolhouse Electronics delivers premium audiovisual products and services to schools, universities, and other organizations across Ohio, Indiana, and Michigan. 
   positions:
   - designation: Subcontractor
-    start: Aug 2025
-    responsibilities:
-    - Install and troubleshoot audiovisual and electrical equipment in school classrooms, auditoriums, and other facilities. 
-    - Communicate with customers and salesmen regarding the status of projects. 
-
-  - designation: Subcontractor
     start: May 2024
-    end: Aug 2024
     responsibilities:
     - Install and troubleshoot audiovisual and electrical equipment in school classrooms, auditoriums, and other facilities. 
     - Communicate with customers and salesmen regarding the status of projects. 
@@ -46,13 +39,17 @@ experiences:
     start: May 2023
     end: Aug 2023
     responsibilities:
-    - stuff
+    - Installed over 40,000 feet of CAT6 cable in warehouse and office space, including RJ45 terminations, server connections, and network testing. 
+    - Assisted IT and engineering personnel with numerous projects. 
 
   - designation: Engineering Intern
-    start: May 2021
+    start: May 2020
     end: Jan 2022
     responsibilities:
-    - stuff
+    - Setup FDM printers in a custom enclosure for use by full-time engineers; wrote user guides for engineers including fine-tuned settings and best practices. 
+    - Implemented a pneumatic press on assembly line; full ownership of project included modeling in Solidworks, assembly of manufactured materials, wiring and pneumatic cable management, PLC programming, assembly line integration, and system testing. 
+    - Learned PLC ladder logic to reverse engineer an operational service assembly line. 
+    - Upgraded numerous assembly line interfaces to increase safety and convenience for operators. 
 
 
 - company:
@@ -62,13 +59,15 @@ experiences:
     logo: /images/sections/experiences/MPT_Logo.jpg
     # darkLogo: /images/sections/experiences/company1.jpg
     # company overview
-    overview: Master Power Transmission is a highly-focused, energized company with an exceptional line of power transmission products and unmatched customer service. Since 1898, we have built a reputation of producing high-quality, durable gear reducers that blend together the perfect combination of torque, performance and reliability.
+    overview: Master Power Transmission is a highly-focused, energized company with an exceptional line of power transmission products. Since 1898, they have built a reputation of producing high-quality, durable gear reducers that blend together the perfect combination of torque, performance and reliability.
   positions:
   - designation: Project Intern
     start: May 2022
     end: Aug 2022
     responsibilities:
-    - stuff
+    - Wrote and managed programs for UR-5e robot to spray paint motors and gear reducers on assembly line. 
+    - Worked with engineers, subcontractors, supervisors, and operators to coordinate system testing and implementation. 
+    - Learned project management skills including project documentation and presentation of design updates to management. 
 
 
 - company:
@@ -83,8 +82,6 @@ experiences:
   - designation: Digital Associate
     start: Sep 2021
     end: May 2025
-    responsibilities:
-    - stuff
 
 
 - company:
@@ -100,10 +97,11 @@ experiences:
     start: Jun 2020
     end: Jan 2021
     responsibilities:
-    - stuff
+    - Managed all shift operations including employee schedule coordination, customer complaints, and financial audits. 
+    - Continued to operate and assist with multiple restaurant stations at a high level. 
     
   - designation: Service Trainer
     start: Jun 2018
     end: May 2020
     responsibilities:
-    - stuff
+    - Learned to operate every restaurant station at a high level, then taught to new employees. 
