@@ -35,6 +35,38 @@ projects:
   summary: TODO
   tags: ["hobby", "chess", "coding"]
 
+- name: Bench Power Supply
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "Sep 2025 - Nov 2025"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["hobby","electronics","3D printing"]
+  
+- name: NASA Student Launch Competition
+  logo: /images/sections/projects/toha.png
+  role: ECE CFO
+  timeline: "Aug 2024 - May 2025"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["academic","aerospace","electronics","3D printing"]
+
+- name: PEP Electric Boat Competition
+  logo: /images/sections/projects/toha.png
+  role: Contributor
+  timeline: "Jan 2025 - Apr 2025"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["academic","electronics","coding"]
+
+- name: ASEE Robotics Competition
+  logo: /images/sections/projects/toha.png
+  role: Contributor
+  timeline: "Aug 2020 - Apr 2021"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["academic","electronics","coding"]
+  
 - name: Sleigh Bells Robot
   logo: /images/sections/projects/toha.png
   image: /images/sections/projects/Jingle_Robot.jpg
@@ -42,4 +74,22 @@ projects:
   timeline: "Nov 2019 - Dec 2019"
   url: "https://www.example.com"
   summary: A small robot which played the sleigh bells during my school's Christmas concert.
+  tags: ["hobby","LEGO","robot"]
+  
+- name: Geometry Drawing Robot
+  logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/Geometry_Robot.jpg
+  role: Owner
+  timeline: "Mar 2019 - Jul 2019"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["hobby","LEGO","robot"]
+
+- name: NERF Blaster Robot
+  logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/NERF_Robot.jpg
+  role: Owner
+  timeline: "Jan 2018 - Jul 2018"
+  url: "https://www.example.com"
+  summary: TODO
   tags: ["hobby","LEGO","robot"]
