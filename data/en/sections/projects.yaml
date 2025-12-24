@@ -31,7 +31,7 @@ projects:
   image: /images/sections/projects/Sovereign_Chess.png
   role: Owner
   timeline: "Nov 2023 - Present"
-  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  repo: https://github.com/KennethLee3/Sovereign-Chess # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: TODO
   tags: ["hobby", "chess", "coding"]
@@ -42,7 +42,7 @@ projects:
   role: Owner
   timeline: "Sep 2025 - Nov 2025"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Benchtop power supply for personal projects. Uses a 12V power supply and buck and boost converters to provide fixed and adjustable voltages, complete with protection circuitry. 
   tags: ["hobby","electronics","3D printing"]
   
 - name: NASA Student Launch Competition
@@ -55,7 +55,7 @@ projects:
   tags: ["academic","aerospace","electronics","3D printing"]
 
 - name: Cadence SRAM Design
-  logo: /images/sections/projects/toha.png
+  #logo: /images/sections/projects/toha.png
   image: /images/sections/projects/Cadence_SRAM.png
   role: Owner
   timeline: "Feb 2024 - May 2024"
@@ -64,7 +64,7 @@ projects:
   tags: ["academic"]
 
 - name: FPGA Obstacle Course Vehicle
-  logo: /images/sections/projects/toha.png
+  #logo: /images/sections/projects/toha.png
   image: /images/sections/projects/FPGA_Car.jpg
   role: Owner
   timeline: "Jan 2024 - Apr 2024"
@@ -73,7 +73,7 @@ projects:
   tags: ["academic","electronics","coding"]
 
 - name: PEP Electric Boat Competition
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/pep.png
   image: /images/sections/projects/Electric_Boat.jpg
   role: Contributor
   timeline: "Jan 2025 - Apr 2025"
@@ -82,7 +82,7 @@ projects:
   tags: ["academic","electronics","coding"]
   
 - name: Wedding Centerpieces
-  logo: /images/sections/projects/toha.png
+  #logo: /images/sections/projects/toha.png
   image: /images/sections/projects/Phone_Booth.jpg
   role: Owner
   timeline: "Dec 2021 - Aug 2022"
@@ -111,12 +111,12 @@ projects:
   image: /images/sections/projects/ASEE_Robotics.jpg
   role: Contributor
   timeline: "Aug 2020 - Apr 2021"
-  #url: "https://www.example.com"
+  url: "https://roboticsteam.cedarville.edu/2021.html"
   summary: Contributed to software for tabletop hockey robot. Worked specifically on troubleshooting STM32 and Arduino boards to work for our application. 
   tags: ["academic","electronics","coding"]
   
 - name: Sleigh Bells Robot
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/ev3.png
   image: /images/sections/projects/Jingle_Robot.jpg
   role: Owner
   timeline: "Nov 2019 - Dec 2019"
@@ -125,19 +125,19 @@ projects:
   tags: ["hobby","LEGO","robot"]
   
 - name: Geometry Drawing Robot
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/ev3.png
   image: /images/sections/projects/Geometry_Robot.jpg
   role: Owner
   timeline: "Mar 2019 - Jul 2019"
   #url: "https://www.example.com"
-  summary: TODO
-  tags: ["hobby","LEGO","robot"]
+  summary: Robot uses a marker to draw a preset shape, or a regular polygon with any number of sides using geometric formulas. 
+  tags: ["hobby","4H","LEGO","robot"]
 
 - name: NERF Blaster Robot
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/ev3.png
   image: /images/sections/projects/NERF_Robot.jpg
   role: Owner
   timeline: "Jan 2018 - Jul 2018"
   #url: "https://www.example.com"
-  summary: TODO
-  tags: ["hobby","LEGO","robot"]
+  summary: Lego Mindstorms robot attached to a semi-automatic NERF blaster. Robot moves by remote control and is capable of firing darts autonomously or by remote control. 
+  tags: ["hobby","4H","LEGO","robot"]
