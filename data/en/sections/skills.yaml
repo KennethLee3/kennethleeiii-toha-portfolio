@@ -51,7 +51,7 @@ skills:
   logo: /images/sections/skills/plc.png
   summary: "TODO"
   categories: ["language"]
-  url: "https://www.ia.omron.com/support/guide/26/introduction.html"
+  url: "https://automation.omron.com/en/us"
   
 - name: VHDL
   logo: /images/sections/skills/vhdl.png
@@ -93,19 +93,19 @@ skills:
   logo: /images/sections/skills/cadence.png
   summary: "TODO"
   categories: ["software"]
-  url: "https://www.cadence.com/en_US/home.html"
+  url: "https://www.cadence.com"
   
 - name: LTspice
   logo: /images/sections/skills/spice.png
   summary: "TODO"
   categories: ["software"]
-  url: "https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html"
+  url: "https://ez.analog.com/design-tools-and-calculators/ltspice"
   
 - name: MATLAB
   logo: /images/sections/skills/matlab.png
   summary: "TODO"
   categories: ["software"]
-  url: "https://www.mathworks.com/products/matlab.html"
+  url: "https://www.mathworks.com/products/matlab"
   
 - name: Quartus
   logo: /images/sections/skills/quartus.png
@@ -126,7 +126,7 @@ skills:
   url: "https://workspace.google.com/enterprise"
   
 - name: Microsoft Office
-  logo: /images/sections/skills/office.jpg
+  logo: /images/sections/skills/office.png
   summary: "TODO"
   categories: ["suite"]
   url: "https://www.microsoft.com/en-us/microsoft-365/microsoft-office"
