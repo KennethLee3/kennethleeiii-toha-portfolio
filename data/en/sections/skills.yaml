@@ -48,7 +48,7 @@ skills:
   url: "https://web.dev/javascript"
   
 - name: PLC Ladder Logic
-  logo: /images/sections/skills/plc.png
+  # logo: /images/sections/skills/plc.png
   summary: "Hands-on experience at Hitachi Astemo via projects which required reverse engineering of Omron PLC program on production assembly line."
   categories: ["language"]
   url: "https://automation.omron.com/en/us"
@@ -97,36 +97,36 @@ skills:
   
 - name: LTspice
   logo: /images/sections/skills/spice.png
-  summary: "TODO"
+  summary: "Used LTspice for various courses including Circuits and Electronics."
   categories: ["software"]
   url: "https://ez.analog.com/design-tools-and-calculators/ltspice"
   
 - name: MATLAB
   logo: /images/sections/skills/matlab.png
-  summary: "TODO"
+  summary: "Significant use of MATLAB and Simulink in courses such as Digital Image Processing."
   categories: ["software"]
   url: "https://www.mathworks.com/products/matlab"
   
 - name: Quartus
   logo: /images/sections/skills/quartus.png
-  summary: "TODO"
+  summary: "Learned Quartus software through completing projects for Digital Logic Design and Advanced Digital Logic Design."
   categories: ["software"]
   url: "https://www.altera.com/products/development-tools/quartus"
   
 - name: Google Suite
   logo: /images/sections/skills/google.png
-  summary: "TODO"
+  summary: "Extensive use of Google Suite products for personal and academic use."
   categories: ["suite"]
   url: "https://workspace.google.com/enterprise"
   
 - name: Microsoft Office
   logo: /images/sections/skills/office.png
-  summary: "TODO"
+  summary: "Extensive experience with Microsoft Office through engineering internships."
   categories: ["suite"]
   url: "https://www.microsoft.com/en-us/microsoft-365/microsoft-office"
 
-- name: Apple Apps
-  logo: /images/sections/skills/apple.png
-  summary: "TODO"
-  categories: ["suite"]
-  url: "https://www.apple.com/apps"
+#- name: Apple Apps
+#  logo: /images/sections/skills/apple.png
+#  summary: "Regular use of Apple applications in personal life."
+#  categories: ["suite"]
+#  url: "https://www.apple.com/apps"
