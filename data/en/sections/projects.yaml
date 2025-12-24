@@ -28,7 +28,7 @@ buttons:
 projects:
 - name: Sovereign Chess
   logo: /images/sections/projects/kubernetes.png
-  image: /images/sections/projects/Sovereign_Chess.jpg
+  image: /images/sections/projects/Sovereign_Chess.png
   role: Owner
   timeline: "Nov 2023 - Present"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -56,7 +56,7 @@ projects:
 
 - name: Cadence SRAM Design
   logo: /images/sections/projects/toha.png
-  image: /images/sections/projects/Cadence_SRAM.jpg
+  image: /images/sections/projects/Cadence_SRAM.png
   role: Owner
   timeline: "Feb 2024 - May 2024"
   url: "https://www.example.com"
