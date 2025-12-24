@@ -31,7 +31,7 @@ projects:
   image: /images/sections/projects/Sovereign_Chess.png
   role: Owner
   timeline: "Nov 2023 - Present"
-  repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  #repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: TODO
   tags: ["hobby", "chess", "coding"]
@@ -41,7 +41,7 @@ projects:
   image: /images/sections/projects/Power_Supply.jpg
   role: Owner
   timeline: "Sep 2025 - Nov 2025"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["hobby","electronics","3D printing"]
   
@@ -50,7 +50,7 @@ projects:
   image: /images/sections/projects/NASA_Rocket.jpg
   role: ECE CFO
   timeline: "Aug 2024 - May 2025"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["academic","aerospace","electronics","3D printing"]
 
@@ -59,7 +59,7 @@ projects:
   image: /images/sections/projects/Cadence_SRAM.png
   role: Owner
   timeline: "Feb 2024 - May 2024"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["academic"]
 
@@ -68,7 +68,7 @@ projects:
   image: /images/sections/projects/FPGA_Car.jpg
   role: Owner
   timeline: "Jan 2024 - Apr 2024"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["academic","electronics","coding"]
 
@@ -77,7 +77,7 @@ projects:
   image: /images/sections/projects/Electric_Boat.jpg
   role: Contributor
   timeline: "Jan 2025 - Apr 2025"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["academic","electronics","coding"]
   
@@ -86,7 +86,7 @@ projects:
   image: /images/sections/projects/Phone_Booth.jpg
   role: Owner
   timeline: "Dec 2021 - Aug 2022"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["hobby","3D printing"]
 
@@ -94,7 +94,7 @@ projects:
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "May 2022 - Aug 2022"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["professional","robot"]
 
@@ -102,16 +102,16 @@ projects:
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "May 2021 - Dec 2021"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["professional","electronics"]
   
 - name: ASEE Robotics Competition
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/asee.png
   image: /images/sections/projects/ASEE_Robotics.jpg
   role: Contributor
   timeline: "Aug 2020 - Apr 2021"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["academic","electronics","coding"]
   
@@ -120,7 +120,7 @@ projects:
   image: /images/sections/projects/Jingle_Robot.jpg
   role: Owner
   timeline: "Nov 2019 - Dec 2019"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: A small robot which played the sleigh bells during my school's Christmas concert.
   tags: ["hobby","LEGO","robot"]
   
@@ -129,7 +129,7 @@ projects:
   image: /images/sections/projects/Geometry_Robot.jpg
   role: Owner
   timeline: "Mar 2019 - Jul 2019"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["hobby","LEGO","robot"]
 
@@ -138,6 +138,6 @@ projects:
   image: /images/sections/projects/NERF_Robot.jpg
   role: Owner
   timeline: "Jan 2018 - Jul 2018"
-  url: "https://www.example.com"
+  #url: "https://www.example.com"
   summary: TODO
   tags: ["hobby","LEGO","robot"]
