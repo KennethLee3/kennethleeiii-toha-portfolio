@@ -1,13 +1,13 @@
 ---
-title: "NASA Student Launch Competition"
-date: 2025-06-13T18:00:00-04:00
-description: Senior Design Project at Cedarville University
+title: "Introduction"
+date: 2020-06-08T08:06:25+06:00
+description: Introduction to Sample Post
 menu:
   sidebar:
-    name: NASA Student Launch Competition
-    identifier: nasa
+    name: Introduction
+    identifier: introduction
     weight: 10
-tags: ["Academic", "Aerospace", "Electronics", "3D Printing"]
+tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
