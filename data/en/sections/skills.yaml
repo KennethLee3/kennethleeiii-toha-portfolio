@@ -25,73 +25,73 @@ buttons:
 skills:
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "TODO"
+  summary: "Learned as an introduction to programming language. Ongoing use for Arduino-based projects and yearly Advent of Code challenge."
   categories: ["language"]
   url: "https://isocpp.org"
 
 - name: Java
   logo: /images/sections/skills/java.png
-  summary: "TODO"
+  summary: "Used for learning data structures and for early implementations of Sovereign Chess Project."
   categories: ["language"]
   url: "https://www.oracle.com/java"
 
 - name: Python
   logo: /images/sections/skills/python.png
-  summary: "TODO"
+  summary: "Experienced with Python in machine learning applications. Also used in projects which utilize Raspberry Pi."
   categories: ["language"]
   url: "https://www.python.org"
 
 - name: Javascript
   logo: /images/sections/skills/js.png
-  summary: "TODO"
+  summary: "Novice Javascript knowledge from Sovereign Chess project development."
   categories: ["language"]
   url: "https://web.dev/javascript"
   
 - name: PLC Ladder Logic
   logo: /images/sections/skills/plc.png
-  summary: "TODO"
+  summary: "Hands-on experience at Hitachi Astemo via projects which required reverse engineering of Omron PLC program on production assembly line."
   categories: ["language"]
   url: "https://automation.omron.com/en/us"
   
 - name: VHDL
   logo: /images/sections/skills/vhdl.png
-  summary: "TODO"
+  summary: "Learned for Advanced Digital Logic Design class."
   categories: ["language"]
   url: "https://www.vhdl-online.de"
 
 - name: SolidWorks
   logo: /images/sections/skills/sw.png
-  summary: "TODO"
+  summary: "Extensive experience gained from numerous academic, personal, and professional projects."
   categories: ["software"]
   url: "https://www.solidworks.com"
   
 - name: Onshape
   logo: /images/sections/skills/onshape.png
-  summary: "TODO"
+  summary: "Used frequently for designing both small parts and large assemblies for hobby projects."
   categories: ["software"]
   url: "https://www.onshape.com/en"
 
 - name: Ultimaker Cura
   logo: /images/sections/skills/cura.png
-  summary: "TODO"
+  summary: "Primary slicer for 3D printing projects for several years. Used both in interships and for personal projects."
   categories: ["software"]
   url: "https://ultimaker.com/software/ultimaker-cura"
   
 - name: Bambu Studio
   logo: /images/sections/skills/bambu.png
-  summary: "TODO"
+  summary: "Current slicer for personal 3D printing projects."
   categories: ["software"]
   url: "https://bambulab.com/en-us/download/studio"
 
 - name: EasyEDA
   logo: /images/sections/skills/easyeda.png
-  summary: "TODO"
+  summary: "Learned for implementing flight computer circuit boards for NASA Student Launch competition for senior design project. Continued use for personal PCB projects."
   categories: ["software"]
   url: "https://easyeda.com"
   
 - name: Cadence
   logo: /images/sections/skills/cadence.png
-  summary: "TODO"
+  summary: "Learned for CMOS VLSI Design course at Cedarville University."
   categories: ["software"]
   url: "https://www.cadence.com"
   
