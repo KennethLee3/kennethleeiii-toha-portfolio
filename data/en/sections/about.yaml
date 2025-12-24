@@ -36,6 +36,10 @@ socialLinks:
   icon: "fab fa-linkedin"
   url: "https://www.linkedin.com/in/kenneth-lee-iii"
 
+- name: Handshake
+  icon: "fa-solid fa-handshake"
+  url: "https://cedarville.joinhandshake.com/profiles/kennethlee3"
+
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
