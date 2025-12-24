@@ -48,7 +48,7 @@ skills:
   url: "https://web.dev/javascript"
   
 - name: PLC Ladder Logic
-  logo: /images/sections/skills/PLC.png
+  logo: /images/sections/skills/plc.png
   summary: "TODO"
   categories: ["language"]
   url: "https://www.ia.omron.com/support/guide/26/introduction.html"
@@ -126,7 +126,7 @@ skills:
   url: "https://workspace.google.com/enterprise"
   
 - name: Microsoft Office
-  logo: /images/sections/skills/office.png
+  logo: /images/sections/skills/office.jpg
   summary: "TODO"
   categories: ["suite"]
   url: "https://www.microsoft.com/en-us/microsoft-365/microsoft-office"
