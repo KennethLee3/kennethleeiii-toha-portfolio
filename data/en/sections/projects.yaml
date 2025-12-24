@@ -27,7 +27,7 @@ buttons:
 # your projects
 projects:
 - name: Sovereign Chess
-  logo: /images/sections/projects/kubernetes.png
+  logo: /images/sections/projects/chess.png
   image: /images/sections/projects/Sovereign_Chess.png
   role: Owner
   timeline: "Nov 2023 - Present"
@@ -37,7 +37,7 @@ projects:
   tags: ["hobby", "chess", "coding"]
 
 - name: Bench Power Supply
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/power.png
   image: /images/sections/projects/Power_Supply.jpg
   role: Owner
   timeline: "Sep 2025 - Nov 2025"
@@ -46,7 +46,7 @@ projects:
   tags: ["hobby","electronics","3D printing"]
   
 - name: NASA Student Launch Competition
-  logo: /images/sections/projects/toha.png
+  logo: /images/sections/projects/nasa.png
   image: /images/sections/projects/NASA_Rocket.jpg
   role: ECE CFO
   timeline: "Aug 2024 - May 2025"
@@ -112,7 +112,7 @@ projects:
   role: Contributor
   timeline: "Aug 2020 - Apr 2021"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Contributed to software for tabletop hockey robot. Worked specifically on troubleshooting STM32 and Arduino boards to work for our application. 
   tags: ["academic","electronics","coding"]
   
 - name: Sleigh Bells Robot
