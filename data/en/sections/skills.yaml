@@ -113,12 +113,6 @@ skills:
   categories: ["software"]
   url: "https://www.altera.com/products/development-tools/quartus"
   
-- name: Wireshark
-  logo: /images/sections/skills/wireshark.png
-  summary: "TODO"
-  categories: ["software"]
-  url: "https://www.wireshark.org"
-
 - name: Google Suite
   logo: /images/sections/skills/google.png
   summary: "TODO"
