@@ -28,6 +28,7 @@ buttons:
 projects:
 - name: Sovereign Chess
   logo: /images/sections/projects/kubernetes.png
+  image: /images/sections/projects/Sovereign_Chess.jpg
   role: Owner
   timeline: "Nov 2023 - Present"
   repo: https://github.com/kubernetes/kubernetes # If your project is a public repo on GitHub, then provide this link. it will show star count.
@@ -37,6 +38,7 @@ projects:
 
 - name: Bench Power Supply
   logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/Power_Supply.jpg
   role: Owner
   timeline: "Sep 2025 - Nov 2025"
   url: "https://www.example.com"
@@ -45,22 +47,68 @@ projects:
   
 - name: NASA Student Launch Competition
   logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/NASA_Rocket.jpg
   role: ECE CFO
   timeline: "Aug 2024 - May 2025"
   url: "https://www.example.com"
   summary: TODO
   tags: ["academic","aerospace","electronics","3D printing"]
 
+- name: Cadence SRAM Design
+  logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/Cadence_SRAM.jpg
+  role: Owner
+  timeline: "Feb 2024 - May 2024"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["academic"]
+
+- name: FPGA Obstacle Course Vehicle
+  logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/FPGA_Car.jpg
+  role: Owner
+  timeline: "Jan 2024 - Apr 2024"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["academic","electronics","coding"]
+
 - name: PEP Electric Boat Competition
   logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/Electric_Boat.jpg
   role: Contributor
   timeline: "Jan 2025 - Apr 2025"
   url: "https://www.example.com"
   summary: TODO
   tags: ["academic","electronics","coding"]
+  
+- name: Wedding Centerpieces
+  logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/Phone_Booth.jpg
+  role: Owner
+  timeline: "Dec 2021 - Aug 2022"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["hobby","3D printing"]
 
+- name: Automated Spray Painting
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "May 2022 - Aug 2022"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["professional","robot"]
+
+- name: Automated Lever Press
+  logo: /images/sections/projects/toha.png
+  role: Owner
+  timeline: "May 2021 - Dec 2021"
+  url: "https://www.example.com"
+  summary: TODO
+  tags: ["professional","electronics"]
+  
 - name: ASEE Robotics Competition
   logo: /images/sections/projects/toha.png
+  image: /images/sections/projects/ASEE_Robotics.jpg
   role: Contributor
   timeline: "Aug 2020 - Apr 2021"
   url: "https://www.example.com"
