@@ -13,59 +13,126 @@ section:
 buttons:
 - name: All
   filter: "all"
-- name: Basic
-  filter: "basic"
 - name: Language
   filter: "language"
-- name: Container
-  filter: "container"
-- name: Others
-  filter: "others"
-
+- name: Software
+  filter: "software"
+- name: Suite
+  filter: "suite"
+  
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  categories: ["container"]
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  categories: ["basic", "language"]
-  url: "https://golang.org/"
-
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-  categories: ["others"]
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  categories: ["container"]
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  categories: ["basic"]
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
-  categories: ["others"]
-
-- name: Git
-  logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  categories: ["basic"]
-  url: "https://git-scm.com/"
-
 - name: C++
   logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
-  categories: ["basic", "language"]
+  summary: "TODO"
+  categories: ["language"]
+  url: "https://isocpp.org"
+
+- name: Java
+  logo: /images/sections/skills/java.png
+  summary: "TODO"
+  categories: ["language"]
+  url: "https://www.oracle.com/java"
+
+- name: Python
+  logo: /images/sections/skills/python.png
+  summary: "TODO"
+  categories: ["language"]
+  url: "https://www.python.org"
+
+- name: Javascript
+  logo: /images/sections/skills/js.png
+  summary: "TODO"
+  categories: ["language"]
+  url: "https://web.dev/javascript"
+  
+- name: PLC Ladder Logic
+  logo: /images/sections/skills/PLC.png
+  summary: "TODO"
+  categories: ["language"]
+  url: "https://www.ia.omron.com/support/guide/26/introduction.html"
+  
+- name: VHDL
+  logo: /images/sections/skills/vhdl.png
+  summary: "TODO"
+  categories: ["language"]
+  url: "https://www.vhdl-online.de"
+
+- name: SolidWorks
+  logo: /images/sections/skills/sw.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.solidworks.com"
+  
+- name: Onshape
+  logo: /images/sections/skills/onshape.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.onshape.com/en"
+
+- name: Ultimaker Cura
+  logo: /images/sections/skills/cura.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://ultimaker.com/software/ultimaker-cura"
+  
+- name: Bambu Studio
+  logo: /images/sections/skills/bambu.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://bambulab.com/en-us/download/studio"
+
+- name: EasyEDA
+  logo: /images/sections/skills/easyeda.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://easyeda.com"
+  
+- name: Cadence
+  logo: /images/sections/skills/cadence.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.cadence.com/en_US/home.html"
+  
+- name: LTspice
+  logo: /images/sections/skills/spice.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html"
+  
+- name: MATLAB
+  logo: /images/sections/skills/matlab.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.mathworks.com/products/matlab.html"
+  
+- name: Quartus
+  logo: /images/sections/skills/quartus.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.altera.com/products/development-tools/quartus"
+  
+- name: Wireshark
+  logo: /images/sections/skills/wireshark.png
+  summary: "TODO"
+  categories: ["software"]
+  url: "https://www.wireshark.org"
+
+- name: Google Suite
+  logo: /images/sections/skills/google.png
+  summary: "TODO"
+  categories: ["suite"]
+  url: "https://workspace.google.com/enterprise"
+  
+- name: Microsoft Office
+  logo: /images/sections/skills/office.png
+  summary: "TODO"
+  categories: ["suite"]
+  url: "https://www.microsoft.com/en-us/microsoft-365/microsoft-office"
+
+- name: Apple Apps
+  logo: /images/sections/skills/apple.png
+  summary: "TODO"
+  categories: ["suite"]
+  url: "https://www.apple.com/apps"
