@@ -18,10 +18,12 @@ buttons:
   filter: "academic"
 - name: Personal
   filter: "hobby"
-- name: Coding
-  filter: "coding"
-- name: 3D Printing
-  filter: "3D printing"
+- name: Mechanical
+  filter: "mechanical"
+- name: Electrical
+  filter: "electrical"
+- name: Software
+  filter: "software
   
 
 # your projects
@@ -34,7 +36,7 @@ projects:
   repo: https://github.com/KennethLee3/Sovereign-Chess # If your project is a public repo on GitHub, then provide this link. it will show star count.
   #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
   summary: TODO
-  tags: ["hobby", "chess", "coding"]
+  tags: ["hobby", "software"]
 
 - name: Bench Power Supply
   logo: /images/sections/projects/power.png
@@ -43,7 +45,7 @@ projects:
   timeline: "Sep 2025 - Nov 2025"
   #url: "https://www.example.com"
   summary: Benchtop power supply for personal projects. Uses a 12V power supply and buck and boost converters to provide fixed and adjustable voltages, complete with protection circuitry. 
-  tags: ["hobby","electronics","3D printing"]
+  tags: ["hobby","mechanical","electrical"]
   
 - name: NASA Student Launch Competition
   logo: /images/sections/projects/nasa.png
@@ -52,7 +54,7 @@ projects:
   timeline: "Aug 2024 - May 2025"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["academic","aerospace","electronics","3D printing"]
+  tags: ["academic","mechanical","electrical","software"]
 
 - name: Cadence SRAM Design
   #logo: /images/sections/projects/toha.png
@@ -61,7 +63,7 @@ projects:
   timeline: "Feb 2024 - May 2024"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["academic"]
+  tags: ["academic","software"]
 
 - name: FPGA Obstacle Course Vehicle
   #logo: /images/sections/projects/toha.png
@@ -70,7 +72,7 @@ projects:
   timeline: "Jan 2024 - Apr 2024"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["academic","electronics","coding"]
+  tags: ["academic","electrical","software"]
 
 - name: PEP Electric Boat Competition
   logo: /images/sections/projects/pep.png
@@ -79,7 +81,7 @@ projects:
   timeline: "Jan 2025 - Apr 2025"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["academic","electronics","coding"]
+  tags: ["academic","electrical","software"]
   
 - name: Wedding Centerpieces
   #logo: /images/sections/projects/toha.png
@@ -88,7 +90,7 @@ projects:
   timeline: "Dec 2021 - Aug 2022"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["hobby","3D printing"]
+  tags: ["hobby","mechanical"]
 
 - name: Automated Spray Painting
   logo: /images/sections/projects/toha.png
@@ -96,7 +98,7 @@ projects:
   timeline: "May 2022 - Aug 2022"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["professional","robot"]
+  tags: ["professional","software"]
 
 - name: Automated Lever Press
   logo: /images/sections/projects/toha.png
@@ -104,7 +106,7 @@ projects:
   timeline: "May 2021 - Dec 2021"
   #url: "https://www.example.com"
   summary: TODO
-  tags: ["professional","electronics"]
+  tags: ["professional","mechanical","electrical","software"]
   
 - name: ASEE Robotics Competition
   logo: /images/sections/projects/asee.png
@@ -113,7 +115,7 @@ projects:
   timeline: "Aug 2020 - Apr 2021"
   url: "https://roboticsteam.cedarville.edu/2021.html"
   summary: Contributed to software for tabletop hockey robot. Worked specifically on troubleshooting STM32 and Arduino boards to work for our application. 
-  tags: ["academic","electronics","coding"]
+  tags: ["academic","electrical","software"]
   
 - name: Sleigh Bells Robot
   logo: /images/sections/projects/ev3.png
@@ -122,7 +124,7 @@ projects:
   timeline: "Nov 2019 - Dec 2019"
   #url: "https://www.example.com"
   summary: A small robot which played the sleigh bells during my school's Christmas concert.
-  tags: ["hobby","LEGO","robot"]
+  tags: ["hobby","mechanical","software"]
   
 - name: Geometry Drawing Robot
   logo: /images/sections/projects/ev3.png
@@ -131,7 +133,7 @@ projects:
   timeline: "Mar 2019 - Jul 2019"
   #url: "https://www.example.com"
   summary: Robot uses a marker to draw a preset shape, or a regular polygon with any number of sides using geometric formulas. 
-  tags: ["hobby","4H","LEGO","robot"]
+  tags: ["hobby","mechanical","software"]
 
 - name: NERF Blaster Robot
   logo: /images/sections/projects/ev3.png
@@ -140,4 +142,4 @@ projects:
   timeline: "Jan 2018 - Jul 2018"
   #url: "https://www.example.com"
   summary: Lego Mindstorms robot attached to a semi-automatic NERF blaster. Robot moves by remote control and is capable of firing darts autonomously or by remote control. 
-  tags: ["hobby","4H","LEGO","robot"]
+  tags: ["hobby","mechanical","software"]
