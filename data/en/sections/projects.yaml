@@ -23,7 +23,7 @@ buttons:
 - name: Electrical
   filter: "electrical"
 - name: Software
-  filter: "software
+  filter: "software"
   
 
 # your projects
