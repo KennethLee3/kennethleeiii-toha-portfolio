@@ -62,7 +62,7 @@ projects:
   role: Owner
   timeline: "Feb 2024 - May 2024"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Functional 16x8 SRAM implemented using Cadence Virtuoso software. Design includes decoder, multiplexer, read amplifier, write driver, and pre-charge circuit. 
   tags: ["academic","software"]
 
 - name: FPGA Obstacle Course Vehicle
@@ -71,7 +71,7 @@ projects:
   role: Owner
   timeline: "Jan 2024 - Apr 2024"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Constructed, wiring, and programmed FPGA vehicle to complete obstacle course in as little time as possible. 
   tags: ["academic","electrical","software"]
 
 - name: PEP Electric Boat Competition
@@ -80,7 +80,7 @@ projects:
   role: Contributor
   timeline: "Jan 2025 - Apr 2025"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Contributed to wiring and data acquisition teams for Cedarville University's 2025 PEP Electric Boat team. 
   tags: ["academic","electrical","software"]
   
 - name: Wedding Centerpieces
@@ -97,7 +97,7 @@ projects:
   role: Owner
   timeline: "May 2022 - Aug 2022"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Program a seven-axis UR-5e robot arm and implement it on the assembly line to spray-paint motors and gearboxes. 
   tags: ["professional","software"]
 
 - name: Automated Lever Press
@@ -105,7 +105,7 @@ projects:
   role: Owner
   timeline: "May 2021 - Dec 2021"
   #url: "https://www.example.com"
-  summary: TODO
+  summary: Automated pneumatic lever press to replace manual press on assembly line. 
   tags: ["professional","mechanical","electrical","software"]
   
 - name: ASEE Robotics Competition
