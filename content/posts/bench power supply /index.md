@@ -1,13 +1,13 @@
 ---
-title: "NASA Student Launch Competition"
-date: 2025-06-13T18:00:00-04:00
-description: Senior Design Project at Cedarville University
+title: "Bench Power Supply"
+date: 2025-12-03T18:00:00-04:00
+description: Adjustable AC to DC power supply for bench workspace
 menu:
   sidebar:
-    name: NASA Student Launch Competition
-    identifier: nasa
+    name: Bench Power Supply
+    identifier: hobby
     weight: 10
-tags: ["Academic", "Aerospace", "Electronics", "3D Printing"]
+tags: ["Hobby", "Mechanical", "Electrical"]
 categories: ["Basic"]
 ---
 
