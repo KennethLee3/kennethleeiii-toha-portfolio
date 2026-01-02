@@ -19,10 +19,10 @@ degrees:
     logo: /images/sections/education/CU_Logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/tech_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 2.9
-    outOf: 4
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 2.9
+#    outOf: 4
   takenCourses: #(optional)
     # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
     showGrades: false
@@ -51,6 +51,7 @@ degrees:
   - Electric Boat Team
   - Intramural soccer
   - Intramural dodgeball
+  
 - name: High School Diploma
   icon: fa-school
   timeframe: 2016-2020
@@ -60,10 +61,11 @@ degrees:
     logo: /images/sections/education/HCS_Logo.png
     # Can optionally show a different logo for dark theme
     # darkLogo: /images/sections/education/science_college.png
-  grade: #(optional)
-    scale: GPA
-    achieved: 3.8
-    outOf: 4
+#  grade: #(optional)
+#    scale: GPA
+#    achieved: 3.8
+#    outOf: 4
   extracurricularActivities: #(optional)
+  - National Honor Society
   - Quiz team
   - Soccer team captain
