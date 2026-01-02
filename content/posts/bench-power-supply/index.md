@@ -17,15 +17,15 @@ categories: ["Basic"]
 
 ### Circuit Design
 
-{{< img src="/posts/bench-power-supply-/wiring-schematic.png" title="Wiring Schematic" >}}
+{{< img src="/posts/bench-power-supply/wiring-schematic.png" title="Wiring Schematic" >}}
 
 ### Interface Design
 
-{{< img src="/posts/bench-power-supply-/panel-schematic.png" title="Panel Schematic" >}}
+{{< img src="/posts/bench-power-supply/panel-schematic.png" title="Panel Schematic" >}}
 
 ### CAD
 
-{{< img src="/posts/bench-power-supply-/CAD.png" title="Power Supply CAD" >}}
+{{< img src="/posts/bench-power-supply/CAD.png" title="Power Supply CAD" >}}
 
 ## Manufacturing
 
@@ -33,4 +33,4 @@ categories: ["Basic"]
 
 ## Results
 
-{{< img src="/posts/bench-power-supply-/hero.png" title="Power Supply Picture" >}}
+{{< img src="/posts/bench-power-supply/hero.png" title="Power Supply Picture" >}}
