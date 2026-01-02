@@ -11,8 +11,26 @@ tags: ["Hobby", "Mechanical", "Electrical"]
 categories: ["Basic"]
 ---
 
-Greeting! This is an introduction post. This post tests the followings:
+# Brainstorm
 
-- Hero image is in the same directory as the post.
-- This post should be at top of the sidebar.
-- Post author should be the same as specified in `author.yaml` file.
+# Design
+
+## Circuit Design
+
+{{< img src="/posts/bench power supply/wiring-schematic.png" title="Wiring Schematic" >}}
+
+## Interface Design
+
+{{< img src="/posts/bench power supply/panel-schematic.png" title="Panel Schematic" >}}
+
+## CAD
+
+{{< img src="/posts/bench power supply/CAD.png" title="Power Supply CAD" >}}
+
+# Manufacturing
+
+# Wiring
+
+# Results
+
+{{< img src="/posts/bench power supply/hero.png" title="Power Supply Picture" >}}
