@@ -50,10 +50,9 @@ The design is such that the outer shell can be 3D printed and heat set insert nu
 
 ## Assembly
 
-My first attempt at 3D printing the power supply was with ABS filament. ABS has a tendency to contract as it cools, which causes the print to warp during printing. This is especially pronounced for relatively large, thin objects such as the shell of the power supply. When the first several attempts all failed due to extreme warping, I switched to PLA, my go-to filament. 
-
 {{< img src="/posts/bench-power-supply/wiring-candid.jpg" height="245" width="350" float="right" title="Wiring Candid" >}}
-{{< vs 2>}}
+
+My first attempt at 3D printing the power supply was with ABS filament. ABS has a tendency to contract as it cools, which causes the print to warp during printing. This is especially pronounced for relatively large, thin objects such as the shell of the power supply. When the first several attempts all failed due to extreme warping, I switched to PLA, my go-to filament. 
 
 I performed all of the assembly and wiring during the Thanksgiving holiday with the assistance of my younger cousin. A significant amount of soldering was necessary using a variety of techniques, along with many WAGO connectors. In total, nearly seventy wiring connections needed to be made within the confines of the box. 
 

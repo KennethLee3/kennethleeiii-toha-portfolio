@@ -76,10 +76,10 @@ projects:
 
 - name: PEP Electric Boat Competition
   logo: /images/sections/projects/pep.png
-  image: /images/sections/projects/Electric_Boat.jpg
+  image: /images/sections/projects/Electric_Boat.png
   role: Contributor
   timeline: "Jan 2025 - Apr 2025"
-  #url: "https://www.example.com"
+  url: "https://https://www.cedarville.edu/news/2025/cedarville-engineers-race-toward-clean-energy-success"
   summary: Contributed to wiring and data acquisition teams for Cedarville University's 2025 PEP Electric Boat team. 
   tags: ["academic","electrical","software"]
   
