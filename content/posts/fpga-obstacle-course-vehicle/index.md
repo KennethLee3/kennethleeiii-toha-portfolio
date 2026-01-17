@@ -13,32 +13,21 @@ categories: ["Basic"]
 
 ## Assembly
 
-Although the vehicle's design was done by my professor, I 
+Although the vehicle's design was done by my professor, each student laser cut the body of their vehicle, 3D printed the steering mechanism, and assembled the vehicle. Electrical assembly included soldering of surface-mount and through-hole components as well as wiring of sensors and motors. 
 
 
 ## Programming
 
-text
-
-
-## Troubleshooting
-
-text
+All programming of the FPGA was done using the Quartus software. Part of the programming challenge included achieving consistency on the obstacle course while minimizing the amount of logic cells used by the FPGA. 
 
 
 ## Results
 
-text
-
-{{< video src="files/sample.mp4" >}}
-{{< vs 1>}}
-
-{{< video src="videos/fpga-vehicle.mp4" >}}
-{{< vs 1>}}
+Once all of the assembly and programming were complete, I recorded a video of my vehicle completing the run successfully, which is shown below. My final report including more details and schematics regarding implementation and troubleshooting is also provided below. 
 
 <div style="display: flex; justify-content: center;">
     <iframe 
-        width="315" 
+        width="320" 
         height="560" 
         src="https://www.youtube.com/embed/aNrIAICuA0Y" 
         title="YouTube video player" 
@@ -47,5 +36,6 @@ text
         allowfullscreen>
     </iframe>
 </div>
+{{< vs 1>}}
 
-text
+{{< embed-pdf src="/files/ADLD-report.pdf" >}}
