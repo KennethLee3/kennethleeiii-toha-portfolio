@@ -27,8 +27,8 @@ Once all of the assembly and programming were complete, I recorded a video of my
 
 <div style="display: flex; justify-content: center;">
     <iframe 
-        width="320" 
-        height="560" 
+        width="600" 
+        height="600" 
         src="https://www.youtube.com/embed/aNrIAICuA0Y" 
         title="YouTube video player" 
         frameborder="0" 
