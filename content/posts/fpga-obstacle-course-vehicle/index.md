@@ -30,10 +30,10 @@ text
 
 text
 
-{{< video src="/videos/sample.mp4" >}}
+{{< video src="videos/sample.mp4" >}}
 {{< vs 1>}}
 
-{{< video src="/videos/fpga-vehicle.mp4" >}}
+{{< video src="videos/fpga-vehicle.mp4" >}}
 {{< vs 1>}}
 
 text
