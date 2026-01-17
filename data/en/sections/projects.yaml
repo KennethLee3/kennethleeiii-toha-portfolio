@@ -70,8 +70,8 @@ projects:
   image: /images/sections/projects/FPGA_Car.jpg
   role: Owner
   timeline: "Jan 2024 - Apr 2024"
-  #url: "https://www.example.com"
-  summary: Constructed, wiring, and programmed FPGA vehicle to complete obstacle course in as little time as possible. 
+  url: "https://kennethleeiii.com/posts/fpga-obstacle-course-vehicle"
+  summary: Constructed, wiring, and programmed FPGA vehicle to complete obstacle course in as little time as possible.
   tags: ["academic","electrical","software"]
 
 - name: PEP Electric Boat Competition
