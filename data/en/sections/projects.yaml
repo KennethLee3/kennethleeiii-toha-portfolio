@@ -52,8 +52,8 @@ projects:
   image: /images/sections/projects/NASA_Rocket.jpg
   role: ECE CFO
   timeline: "Aug 2024 - May 2025"
-  #url: "https://www.example.com"
-  summary: Design, build, and test high powered rockets while documenting and reporting results to NASA staff. Worked specifically on payload team for the project. 
+  url: "https://kennethleeiii.com/posts/nasa-student-launch-competition"
+  summary: Design, build, and test high powered rockets while documenting and reporting results to NASA staff. Worked specifically on payload team for the project.
   tags: ["academic","mechanical","electrical","software"]
 
 - name: Cadence SRAM Design
