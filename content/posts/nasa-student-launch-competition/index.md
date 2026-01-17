@@ -13,8 +13,8 @@ categories: ["Basic"]
 
 <div style="display: flex; justify-content: center;">
     <iframe 
-        width="350" 
-        height="200" 
+        width="600" 
+        height="350" 
         src="https://www.youtube.com/embed/GDAyKgWNy-U" 
         title="YouTube video player" 
         frameborder="0" 
