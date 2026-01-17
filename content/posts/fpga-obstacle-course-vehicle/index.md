@@ -36,4 +36,16 @@ text
 {{< video src="videos/fpga-vehicle.mp4" >}}
 {{< vs 1>}}
 
+<div style="display: flex; justify-content: center;">
+    <iframe 
+        width="315" 
+        height="560" 
+        src="https://www.youtube.com/embed/aNrIAICuA0Y" 
+        title="YouTube video player" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+</div>
+
 text
