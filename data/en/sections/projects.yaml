@@ -96,16 +96,16 @@ projects:
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "May 2022 - Aug 2022"
-  #url: "https://www.example.com"
-  summary: Program a seven-axis UR-5e robot arm and implement it on the assembly line to spray-paint motors and gearboxes. 
+  url: "https://kennethleeiii.com/posts/automated-spray-painting"
+  summary: Program a seven-axis UR-5e robot arm and implement it on the assembly line to spray-paint motors and gearboxes.
   tags: ["professional","software"]
 
 - name: Automated Lever Press
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "May 2021 - Dec 2021"
-  #url: "https://www.example.com"
-  summary: Automated pneumatic lever press to replace manual press on assembly line. 
+  url: "https://kennethleeiii.com/posts/automated-lever-press"
+  summary: Automated pneumatic lever press to replace manual press on assembly line.
   tags: ["professional","mechanical","electrical","software"]
   
 - name: ASEE Robotics Competition
