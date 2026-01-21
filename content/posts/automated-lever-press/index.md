@@ -1,7 +1,7 @@
 ---
 title: "Automated Lever Press"
 date: 2021-12-23T18:00:00-04:00
-description: Replaced Manual Press with Automated Press for Internship at Hitachi Astemo
+description: Replaced manual press with automated press for internship at Hitachi Astemo
 menu:
   sidebar:
     name: Automated Lever Press

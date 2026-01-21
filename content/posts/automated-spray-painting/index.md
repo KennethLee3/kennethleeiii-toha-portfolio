@@ -1,13 +1,13 @@
 ---
-title: "NASA Student Launch Competition"
-date: 2025-05-02T18:00:00-04:00
-description: CFO of Payload Team for 2024-2025 NASA Student Launch competition for Senior Design Project
+title: "Automated Spray Painting"
+date: 2025-08-12T18:00:00-04:00
+description: Implement UR-5e robot to spray paint motors and transmissions at Master Power Transmission
 menu:
   sidebar:
-    name: NASA Student Launch Competition
-    identifier: academic
+    name: Automated Spray Painting
+    identifier: professional
     weight: 10
-tags: ["Academic", "Mechanical", "Electrical", "Software"]
+tags: ["Professional", "Software"]
 categories: ["Basic"]
 ---
 
