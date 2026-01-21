@@ -55,6 +55,15 @@ projects:
   url: "https://kennethleeiii.com/posts/nasa-student-launch-competition"
   summary: Design, build, and test high powered rockets while documenting and reporting results to NASA staff. Worked specifically on payload team for the project.
   tags: ["academic","mechanical","electrical","software"]
+  
+- name: Model Rocket with Electronics
+  #logo: /images/sections/projects/nasa.png
+  image: /images/sections/projects/Model_Rocket.jpg
+  role: Co-Owner
+  timeline: "May 2024 - Aug 2024"
+  #url: "https://kennethleeiii.com/posts/nasa-student-launch-competition"
+  summary: Worked with a close friend to design and build a model rocket with electronics which logged flight data, adjusted flap angle of fins, and deployed parachute.
+  tags: ["hobby","mechanical","electrical","software"]
 
 - name: Cadence SRAM Design
   #logo: /images/sections/projects/toha.png
@@ -96,7 +105,7 @@ projects:
   logo: /images/sections/projects/toha.png
   role: Owner
   timeline: "May 2022 - Aug 2022"
-  url: "https://kennethleeiii.com/posts/automated-spray-painting"
+  #url: "https://kennethleeiii.com/posts/automated-spray-painting"
   summary: Program a seven-axis UR-5e robot arm and implement it on the assembly line to spray-paint motors and gearboxes.
   tags: ["professional","software"]
 

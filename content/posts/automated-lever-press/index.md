@@ -13,9 +13,6 @@ categories: ["Basic"]
 
 ## Overview
 
-text
-
-
 ## CAD Modeling
 
 ## Manufacturing & Assembly
