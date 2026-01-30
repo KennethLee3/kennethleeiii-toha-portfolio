@@ -33,9 +33,8 @@ projects:
   image: /images/sections/projects/Sovereign_Chess.png
   role: Owner
   timeline: "Nov 2023 - Present"
-  repo: https://github.com/KennethLee3/Sovereign-Chess # If your project is a public repo on GitHub, then provide this link. it will show star count.
-  #url: ""  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
-  summary: Began as a project to implement the game of Sovereign Chess in Java. Developed opponent bots to play against using both heuristic and machine learning methods. Currently working on online version in Javascript. 
+  repo: https://github.com/KennethLee3/Sovereign-Chess
+  summary: Began as a project to implement the game of Sovereign Chess in Java. Developed opponent bots to play against using both heuristic and machine learning methods. Currently working on online version in Javascript.
   tags: ["hobby", "software"]
 
 - name: Bench Power Supply
@@ -55,6 +54,15 @@ projects:
   url: "https://kennethleeiii.com/posts/nasa-student-launch-competition"
   summary: Design, build, and test high powered rockets while documenting and reporting results to NASA staff. Worked specifically on payload team for the project.
   tags: ["academic","mechanical","electrical","software"]
+  
+- name: PEP Electric Boat Competition
+  logo: /images/sections/projects/pep.png
+  image: /images/sections/projects/Electric_Boat.png
+  role: Contributor
+  timeline: "Jan 2025 - Apr 2025"
+  url: "https://www.cedarville.edu/news/2025/cedarville-engineers-race-toward-clean-energy-success"
+  summary: Contributed to wiring and data acquisition teams for Cedarville University's 2025 PEP Electric Boat team. 
+  tags: ["academic","electrical","software"]
   
 - name: Model Rocket with Electronics
   #logo: /images/sections/projects/nasa.png
@@ -81,15 +89,6 @@ projects:
   timeline: "Jan 2024 - Apr 2024"
   url: "https://kennethleeiii.com/posts/fpga-obstacle-course-vehicle"
   summary: Constructed, wiring, and programmed FPGA vehicle to complete obstacle course in as little time as possible.
-  tags: ["academic","electrical","software"]
-
-- name: PEP Electric Boat Competition
-  logo: /images/sections/projects/pep.png
-  image: /images/sections/projects/Electric_Boat.png
-  role: Contributor
-  timeline: "Jan 2025 - Apr 2025"
-  url: "https://www.cedarville.edu/news/2025/cedarville-engineers-race-toward-clean-energy-success"
-  summary: Contributed to wiring and data acquisition teams for Cedarville University's 2025 PEP Electric Boat team. 
   tags: ["academic","electrical","software"]
   
 - name: Wedding Centerpieces
