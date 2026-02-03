@@ -59,7 +59,7 @@ I performed all of the assembly and wiring during the Thanksgiving holiday with 
 
 ## Results
 
-The resulting power supply has four output voltage rails corresponding to the voltages I uses most often. The fixed 5V and 12V rails are convenient for many devices that need those voltages. The low voltage output, which uses a buck converter, has two potentiometers which control the voltage level and maximum current draw respectively. The high voltage output, which uses a boost converter, has one potentiometer to adjust the voltage up to 35V. Each output is individually protected with a fast-blow fuse and Schottky diode. 
+The resulting power supply has four output voltage rails corresponding to the voltages I use most often. The fixed 5V and 12V rails are convenient for many devices that need those voltages. The low voltage output, which uses a buck converter, has two potentiometers which control the voltage level and maximum current draw respectively. The high voltage output, which uses a boost converter, has one potentiometer to adjust the voltage up to 35V. Each output is individually protected with a fast-blow fuse and Schottky diode. 
 
 {{< img src="/posts/bench-power-supply/hero.jpg" title="Power Supply Picture" >}}
 {{< vs 1>}}
