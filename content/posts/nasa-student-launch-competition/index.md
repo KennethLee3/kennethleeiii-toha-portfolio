@@ -23,7 +23,7 @@ Part of the requirements for achieving the [Computer Engineering degree at Cedar
 {{< img src="/posts/nasa-student-launch-competition/group-photo-EPL.jpg" title="Group Photo EPL" >}}
 {{< vs 1>}}
 
-To start the project, we had several meetings to determine important project parameters such as division of responsibility and reporting procedures. This included both full CSL team meetings and payload team meetings. Another important part of these meetings was decifering NASA's guidelines for our design and brainstorming how to meet these requirements completely but efficiently. The summary of NASA's payload requirements is quoted below:
+To start the project, we had several meetings to determine important project parameters such as division of responsibility and reporting procedures. This included both full CSL team meetings and payload team meetings. Another important part of these meetings was decifering NASA's guidelines for our design and brainstorming how to meet these requirements completely but efficiently. The summary of NASA's payload requirements is as follows:
 
 > Teams are tasked with designing, building, and flying a STEMnaut flight capsule capable of safely retaining four STEMnauts and transmitting, via radio frequency, relevant rocket and STEMnaut landing site data to a NASA-owned receiver located at the launch site.
 
@@ -41,7 +41,20 @@ This same research along with significantly more details regarding operational a
 {{< embed-pdf src="/files/CSL - Proposal.pdf" >}}
 {{< vs 2>}}
 
+
 ## Preliminary Design Review
+
+After our proposals were accepted, CSL began to work on what our design for the rocket and payloads would look like. This process requires that for each portion of the overall rocket design, multiple competing designs be proposed then evaluated using applicable analysis tools; this culminates in one design being chosen and formally proposed to NASA in the Preliminary Design Review. 
+
+### Radio Transmitter Research
+
+One of the core design decisions for the primary payload was the method of radio transmission and reception. NASA's requirements specified that the payload send data as packets over radio, which is typically accomplished using the [APRS](https://how.aprs.works) protocol. 
+
+Our initial design plan was to use the *Friendcom* [FC-302](https://fcc.report/FCC-ID/UU3FC302U2F/2920489.pdf) transmitter on board the payload and the *Yaesu* [FTM-300DR](https://www.yaesu.com/product-detail.aspx?Model=FTM-300DR&CatName=Legacy) transceiver to receive the payload's data transmissions. Because both of these options were more expensive and had less thorough documentation, our faculty advisors recommended that we begin by using *Baofeng* [UV-5R](https://www.baofengradio.com/products/uv-5r) handheld transceivers for both sending and receiving transmissions. 
+
+### First PCB Implementation
+
+### First CAD Implementation
 
 {{< embed-pdf src="/files/CSL - PDR Report.pdf" >}}
 {{< vs 2>}}
