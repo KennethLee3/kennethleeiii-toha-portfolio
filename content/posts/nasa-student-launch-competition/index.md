@@ -23,8 +23,20 @@ Part of the requirements for achieving the [Computer Engineering degree at Cedar
 {{< img src="/posts/nasa-student-launch-competition/group-photo-EPL.jpg" title="Group Photo EPL" >}}
 {{< vs 1>}}
 
+To start the project, we had several meetings to determine important project parameters such as division of responsibility and reporting procedures. This included both full CSL team meetings and payload team meetings. Another important part of these meetings was decifering NASA's guidelines for our design and brainstorming how to meet these requirements completely but efficiently. The summary of NASA's payload requirements is quoted below:
+
+> Teams are tasked with designing, building, and flying a STEMnaut flight capsule capable of safely retaining four STEMnauts and transmitting, via radio frequency, relevant rocket and STEMnaut landing site data to a NASA-owned receiver located at the launch site.
+
+My team and I began by brainstorming and researching what electronic components could be used in the payload, including microcontrollers, sensors, and radio transmitters. For each component we researched, we collected the product's cost, specifications, power consumption, mass, and a link to access it in the future. This spreadsheet allowed us to have a bill of materials for the payload which could be quickly altered if the team decided to change what components we were using. This spreadsheet also became the basis for other tables including the payload's mass budget, financial budget, and power consumption allowance to calculate battery life. 
+
+Since the project also required the payload to transmit data packets over the two meter band, my team and I needed to get our [FCC Amateur Radio Licenses](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service). To do so, I studied for and passed the test to obtain my [Amateur Radio Technician License](https://www.arrl.org/ham-radio-licenses), callsign KF8CDC. 
+
+After completing this initial research, we submitted our senior design proposal to our faculty advisor. A copy is provided below. 
+
 {{< embed-pdf src="/files/ECE NASA Team Cedarville Proposal.pdf" >}}
 {{< vs 2>}}
+
+This same research along with significantly more details regarding operational and safety procedures was submitted to NASA, as shown below. Both proposals were accepted. 
 
 {{< embed-pdf src="/files/CSL - Proposal.pdf" >}}
 {{< vs 2>}}
