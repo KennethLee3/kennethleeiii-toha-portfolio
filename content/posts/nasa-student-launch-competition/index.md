@@ -29,6 +29,9 @@ To start the project, we had several meetings to determine important project par
 
 My team and I began by brainstorming and researching what electronic components could be used in the payload, including microcontrollers, sensors, and radio transmitters. For each component we researched, we collected the product's cost, specifications, power consumption, mass, and a link to access it in the future. This spreadsheet allowed us to have a bill of materials for the payload which could be quickly altered if the team decided to change what components we were using. This spreadsheet also became the basis for other tables including the payload's mass budget, financial budget, and power consumption allowance to calculate battery life. 
 
+{{< img src="/posts/nasa-student-launch-competition/components-list.png" title="Components List" >}}
+{{< vs 1>}}
+
 Since the project also required the payload to transmit data packets over the two meter band, my team and I needed to get our [FCC Amateur Radio Licenses](https://www.fcc.gov/wireless/bureau-divisions/mobility-division/amateur-radio-service). To do so, I studied for and passed the test to obtain my [Amateur Radio Technician License](https://www.arrl.org/ham-radio-licenses), callsign KF8CDC. 
 
 After completing this initial research, we submitted our senior design proposal to our faculty advisor. A copy is provided below. 
@@ -50,7 +53,9 @@ After our proposals were accepted, CSL began to work on what our design for the 
 
 One of the core design decisions for the primary payload was the method of radio transmission and reception. NASA's requirements specified that the payload send data as packets over radio, which is typically accomplished using the [APRS](https://how.aprs.works) protocol. 
 
-Our initial design plan was to use the *Friendcom* [FC-302](https://fcc.report/FCC-ID/UU3FC302U2F/2920489.pdf) transmitter on board the payload and the *Yaesu* [FTM-300DR](https://www.yaesu.com/product-detail.aspx?Model=FTM-300DR&CatName=Legacy) transceiver to receive the payload's data transmissions. Because both of these options were more expensive and had less thorough documentation, our faculty advisors recommended that we begin by using *Baofeng* [UV-5R](https://www.baofengradio.com/products/uv-5r) handheld transceivers for both sending and receiving transmissions. 
+Our initial design plan was to use the *Friendcom* [FC-302](https://fcc.report/FCC-ID/UU3FC302U2F/2920489.pdf) transmitter on board the payload and the *Yaesu* [FTM-300DR](https://www.yaesu.com/product-detail.aspx?Model=FTM-300DR&CatName=Legacy) transceiver to receive the payload's data transmissions, both of which have APRS encoding/decoding functionality built in. Because both of these options were more expensive and had less thorough documentation, our faculty advisors recommended that we begin by using *Baofeng* [UV-5R](https://www.baofengradio.com/products/uv-5r) handheld transceivers for both sending and receiving transmissions. 
+
+The cheaper price of the UV-5R handheld radios meant that we could maintain a reasonable budget even in the event of rocket recovery failure during testing which could destroy the payload. In fact, all of the planning and budgeting regarding rocket payloads was done in such a way that the system could quickly be rebuilt from scratch in the event of testing-induced destruction. 
 
 ### First PCB Implementation
 
