@@ -69,7 +69,7 @@ projects:
   image: /images/sections/projects/Model_Rocket.jpg
   role: Co-Owner
   timeline: "May 2024 - Aug 2024"
-  url:"https://www.linkedin.com/posts/kenneth-lee-iii_in-preparation-for-my-upcoming-participation-activity-7232013625178124288-111S"
+  url: "https://www.linkedin.com/posts/kenneth-lee-iii_in-preparation-for-my-upcoming-participation-activity-7232013625178124288-111S"
   summary: Worked with a close friend to design and build a model rocket with electronics which logged flight data, adjusted flap angle of fins, and deployed parachute.
   tags: ["hobby","mechanical","electrical","software"]
 
