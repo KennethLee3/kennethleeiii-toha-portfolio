@@ -55,9 +55,30 @@ One of the core design decisions for the primary payload was the method of radio
 
 Our initial design plan was to use the *Friendcom* [FC-302](https://fcc.report/FCC-ID/UU3FC302U2F/2920489.pdf) transmitter on board the payload and the *Yaesu* [FTM-300DR](https://www.yaesu.com/product-detail.aspx?Model=FTM-300DR&CatName=Legacy) transceiver to receive the payload's data transmissions, both of which have APRS encoding/decoding functionality built in. Because both of these options were more expensive and had less thorough documentation, our faculty advisors recommended that we begin by using *Baofeng* [UV-5R](https://www.baofengradio.com/products/uv-5r) handheld transceivers for both sending and receiving transmissions. 
 
-The cheaper price of the UV-5R handheld radios meant that we could maintain a reasonable budget even in the event of rocket recovery failure during testing which could destroy the payload. In fact, all of the planning and budgeting regarding rocket payloads was done in such a way that the system could quickly be rebuilt from scratch in the event of testing-induced destruction. 
+The cheaper price of the UV-5R handheld radios meant that we could maintain a reasonable budget even in the event of rocket recovery failure during testing, which could destroy the payload. In fact, all of the planning and budgeting regarding rocket payloads was done in such a way that the system could quickly be rebuilt from scratch in the event of testing-induced destruction. 
 
 ### First PCB Implementation
+
+From the beginning, our plan to implement the circuitry needed for the payload was a printed circuit board (PCB), which we would design using the [EasyEDA](https://easyeda.com) software and purchase from [JLCPCB](https://jlcpcb.com). Our first PCB would use header pins to interface with sensor modules and our chosen microcontroller, the [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/). These header pins allow us to quickly remove or replace components for testing or debugging. My first schematic and board layout are shown below. 
+
+{{< img src="/posts/nasa-student-launch-competition/first-pcb-design.png" title="First PCB Design" >}}
+{{< vs 1>}}
+
+After several meetings with team members and advisors, and numerous design iterations, the PCB was ready to order. Below are the schematic we used and a render of the board layout with components added. 
+
+{{< img src="/posts/nasa-student-launch-competition/primary-pcb-schematic.png" title="Primary PCB Schematic" >}}
+{{< vs 1>}}
+
+{{< img src="/posts/nasa-student-launch-competition/second-pcb-design.png" title="Second PCB Design" >}}
+{{< vs 1>}}
+
+When our manufactured PCBs arrived, we soldered components and headers to the board and tested the Pico and its interface with the sensors. The PCB had a couple small problems which we were able to fix by soldering external wires to make connections. This can be seen in the images of the assembled PCB below. 
+
+{{< img src="/posts/nasa-student-launch-competition/primary-pcb-front.png" title="Primary PCB Front" >}}
+{{< vs 1>}}
+
+{{< img src="/posts/nasa-student-launch-competition/primary-pcb-back.png" title="Primary PCB Back" >}}
+{{< vs 1>}}
 
 ### First CAD Implementation
 
