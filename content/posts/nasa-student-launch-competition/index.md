@@ -64,7 +64,7 @@ From the beginning, our plan to implement the circuitry needed for the payload w
 {{< img src="/posts/nasa-student-launch-competition/first-pcb-design.png" title="First PCB Design" >}}
 {{< vs 1>}}
 
-After several meetings with team members and advisors, and numerous design iterations, the PCB was ready to order. Below are the schematic we used and a render of the board layout with components added. 
+After several meetings with team members and advisors, and numerous design iterations, the PCB was ready to order. Below is the updated schematic we used and a render of the board layout with components added. 
 
 {{< img src="/posts/nasa-student-launch-competition/primary-pcb-schematic.png" title="Primary PCB Schematic" >}}
 {{< vs 1>}}
@@ -82,8 +82,19 @@ When our manufactured PCBs arrived, we soldered components and headers to the bo
 
 ### First CAD Implementation
 
+I designed our first CAD iteration in [SolidWorks](https://www.solidworks.com). As a team, we determined that the payload would be located directly below the rocket's nosecone with the antenna of the radio transmitter pointing up into the nosecone. The main body of the payload would be 3D printed with PLA+ to reduce weight; the transmitter, PCB, and batteries would attach to the 3D printed body. A render of my first CAD implementation is shown below. 
+
+{{< img src="/posts/nasa-student-launch-competition/pdr-cad.png" title="PDR CAD" >}}
+{{< vs 1>}}
+
+### Preliminary Design Review Report
+
+CSL submitted our Preliminary Design Review to NASA, which included a presentation, a flysheet, and a 186-page report which is shown below. 
+
 {{< embed-pdf src="/files/CSL - PDR Report.pdf" >}}
 {{< vs 2>}}
+
+## Subscale Launch #1
 
 ## Semester Report
 
@@ -95,15 +106,31 @@ When our manufactured PCBs arrived, we soldered components and headers to the bo
 {{< embed-pdf src="/files/CSL - CDR Report.pdf" >}}
 {{< vs 2>}}
 
+## Subscale Launch #2
+
+## Subscale Launch #3
+
+## Fullscale Launch #1
+
+## Fullscale Launch #2
+
 ## Flight Readiness Review
 
 {{< embed-pdf src="/files/CSL - FRR Report.pdf" >}}
 {{< vs 2>}}
 
+## Fullscale Launch #3
+
 ## Flight Readiness Review Addendum
 
 {{< embed-pdf src="/files/CSL - FRR Addendum.pdf" >}}
 {{< vs 2>}}
+
+## Fullscale Launch #4
+
+## Fullscale Launch #5
+
+## Fullscale Launch #6
 
 ## Final Report
 
