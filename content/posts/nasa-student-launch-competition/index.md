@@ -96,6 +96,30 @@ CSL submitted our Preliminary Design Review to NASA, which included a presentati
 
 ## Subscale Launch #1
 
+NASA requires each team to have a successful subscale rocket launch, where a three-quarters scale version of the rocket launches and is recovered correctly and safely. The payloads are not required to be included in the subscale launches. 
+
+We began the first subscale launch (as well as other launches) with pop tests to ensure that the avionics are performing correctly and that the black powder is sufficient to deploy the parachutes. 
+
+{{< vs 1>}}
+<div style="display: flex; justify-content: center;">
+    <iframe 
+        width="600" 
+        height="600" 
+        src="https://www.youtube.com/embed/mi4n9ex79h0" 
+        title="CSL Pop Tests" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+</div>
+{{< vs 1>}}
+
+TALK ABOUT THE LAUNCH
+
+INSERT LAUNCH VIDS HERE
+
+TALK ABOUT LAUNCH RESULTS
+
 ## Semester Report
 
 {{< embed-pdf src="/files/ECE NASA Team Cedarville Semester Report.pdf" >}}
@@ -153,7 +177,7 @@ CSL submitted our Preliminary Design Review to NASA, which included a presentati
         width="600" 
         height="350" 
         src="https://www.youtube.com/embed/GDAyKgWNy-U" 
-        title="YouTube video player" 
+        title="CSL Project Video" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
         allowfullscreen>
