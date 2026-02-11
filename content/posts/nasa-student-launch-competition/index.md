@@ -114,11 +114,23 @@ We began the first subscale launch (as well as other launches) with pop tests to
 </div>
 {{< vs 1>}}
 
-TALK ABOUT THE LAUNCH
+TODO: TALK ABOUT THE LAUNCH
 
-INSERT LAUNCH VIDS HERE
+{{< vs 1>}}
+<div style="display: flex; justify-content: center;">
+    <iframe 
+        width="350" 
+        height="600" 
+        src="https://www.youtube.com/embed/Lhldchyfz4c" 
+        title="CSL Subscale Launch 1" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+        allowfullscreen>
+    </iframe>
+</div>
+{{< vs 1>}}
 
-TALK ABOUT LAUNCH RESULTS
+TODO: TALK ABOUT LAUNCH RESULTS
 
 ## Semester Report
 

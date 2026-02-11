@@ -11,6 +11,19 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: NanoLab
+    url: "https://www.nano-lab.com"
+    location: Waltham, MA
+    logo: /images/sections/experiences/NanoLab_Logo.png
+    # darkLogo: /images/sections/experiences/company1.jpg
+    # company overview
+    overview: NanoLab is a developer and manufacturer of nanomaterials, and products such as Singularity Black paint. We conduct research and development activities, and process customer parts that require painting and coating.
+  positions:
+  - designation: Staff Engineer & Aerospace Coating Specialist
+    start: Feb 2026
+    #responsibilities:
+
+- company:
     name: Schoolhouse Electronics
     url: "https://schoolhouseelectronics.com"
     location: Bluffton, OH
@@ -21,6 +34,7 @@ experiences:
   positions:
   - designation: Subcontractor
     start: May 2024
+    end: Feb 2026
     responsibilities:
     - Install and troubleshoot audiovisual and electrical equipment in school classrooms, auditoriums, and other facilities. 
     - Communicate with customers and salesmen regarding the status of projects. 
