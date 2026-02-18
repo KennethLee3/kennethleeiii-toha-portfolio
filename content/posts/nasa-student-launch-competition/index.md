@@ -120,7 +120,7 @@ TODO: TALK ABOUT THE LAUNCH
 <div style="display: flex; justify-content: center;">
     <iframe 
         width="350" 
-        height="600" 
+        height="550" 
         src="https://www.youtube.com/embed/Lhldchyfz4c" 
         title="CSL Subscale Launch 1" 
         frameborder="0" 
