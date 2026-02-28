@@ -70,7 +70,13 @@ skills:
   summary: "Used frequently for designing both small parts and large assemblies for hobby projects."
   categories: ["software"]
   url: "https://www.onshape.com/en"
-
+  
+- name: Fusion 360
+  logo: /images/sections/skills/fusion.png
+  summary: "Used for design work at NanoLab."
+  categories: ["software"]
+  url: "https://www.autodesk.com/products/fusion-360/overview"
+  
 - name: Ultimaker Cura
   logo: /images/sections/skills/cura.png
   summary: "Primary slicer for 3D printing projects for several years. Used both in interships and for personal projects."
