@@ -114,7 +114,7 @@ We began the first subscale launch (as well as other launches) with pop tests to
 </div>
 {{< vs 1>}}
 
-TODO: TALK ABOUT THE LAUNCH
+After successful pop tests, CSL prepared to launch for our first subscale attempt. We encountered problems with the rocket's avionics prior to launch, including unexpected continuity across the altimeters. The source of the problem was determined to be the terminal blocks, so these were bypassed so that we could perform the launch. During this process, the redundant altimeter broke. We determined that we would continue with the launch using only the primary altimeter. The rocket was assembled and prepared for launch; no payload was present on this flight but a lead ballast was added to simulate the payload's mass. 
 
 {{< vs 1>}}
 <div style="display: flex; justify-content: center;">
@@ -130,9 +130,11 @@ TODO: TALK ABOUT THE LAUNCH
 </div>
 {{< vs 1>}}
 
-TODO: TALK ABOUT LAUNCH RESULTS
+Our first subscale attempt launched at 3:40 PM on November 18. The rocket ascended as expected and the avionics worked correctly to deploy the drogue and main parachutes during descent. The only problem the rocket encountered was that during the main parachute deployment, the shock cord ripped the payload bulkhead away from the payload bay. This caused the forward section of the rocket to freefall separate from the rest of the rocket; the nosecone suffered significant damage upon impact. 
 
 ## Semester Report
+
+At the end of the semester, the payload team detailed the design process and most current design iteration of the payload in a report which is provided below. In addition to submitting this report to our faculty, my team gave a project presentation to our professors and peers. 
 
 {{< embed-pdf src="/files/ECE NASA Team Cedarville Semester Report.pdf" >}}
 {{< vs 2>}}
